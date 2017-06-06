@@ -1,164 +1,164 @@
 {
   "data":[
    {
-    "ФИО": "Петренко Александр Иванович",
-    "Возраст": 23,
-    "Город": "Киев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Петренко Александр Иванович",
+    "age": 23,
+    "city": "Киев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-      "ФИО": "Василенко Иван Иванович",
-      "Возраст": 18,
-      "Город": "Луцк",
-      "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+      "name": "Василенко Иван Иванович",
+      "age": 18,
+      "city": "Луцк",
+      "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Дудаков Юлий Изяславович ",
-    "Возраст": 30,
-    "Город": "Белая Церковь",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Дудаков Юлий Изяславович ",
+    "age": 30,
+    "city": "Белая Церковь",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Митасова Екатерина Емельяновна ",
-    "Возраст": 25,
-    "Город": "Киев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Митасова Екатерина Емельяновна ",
+    "age": 25,
+    "city": "Киев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Капустина Элеонора Александровна ",
-    "Возраст": 23,
-    "Город": "Ужгород",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Капустина Элеонора Александровна ",
+    "age": 23,
+    "city": "Ужгород",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Караев Марк Сидорович",
-    "Возраст": 20,
-    "Город": "Киев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Караев Марк Сидорович",
+    "age": 20,
+    "city": "Киев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Шабалина Зинаида Родионовна ",
-    "Возраст": 35,
-    "Город": "Киев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Шабалина Зинаида Родионовна ",
+    "age": 35,
+    "city": "Киев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Жилов Никита Олегович",
-    "Возраст": 23,
-    "Город": "Бровары",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Жилов Никита Олегович",
+    "age": 23,
+    "city": "Бровары",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Жикин Елизар Архипович",
-    "Возраст": 23,
-    "Город": "Харьков",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Жикин Елизар Архипович",
+    "age": 23,
+    "city": "Харьков",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Церетели Влада Марковна ",
-    "Возраст": 32,
-    "Город": "Харьков",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Церетели Влада Марковна ",
+    "age": 32,
+    "city": "Харьков",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Королёва Кира Несторовна",
-    "Возраст": 23,
-    "Город": "Киев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Королёва Кира Несторовна",
+    "age": 23,
+    "city": "Киев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Дукачёва Регина Германовна ",
-    "Возраст": 25,
-    "Город": "Одесса",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Дукачёва Регина Германовна ",
+    "age": 25,
+    "city": "Одесса",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Воропаев Филипп Валериевич ",
-    "Возраст": 50,
-    "Город": "Запорожье",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Воропаев Филипп Валериевич ",
+    "age": 50,
+    "city": "Запорожье",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Клименко Игнатий Эрнестович ",
-    "Возраст": 45,
-    "Город": "Запорожье",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Клименко Игнатий Эрнестович ",
+    "age": 45,
+    "city": "Запорожье",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Разуваева Александра Иларионовна",
-    "Возраст": 40,
-    "Город": "Львов",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Разуваева Александра Иларионовна",
+    "age": 40,
+    "city": "Львов",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Лазарев Рубен Самуилович ",
-    "Возраст": 30,
-    "Город": "Львов",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Лазарев Рубен Самуилович ",
+    "age": 30,
+    "city": "Львов",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Чиркова Лиана Родионовна ",
-    "Возраст": 35,
-    "Город": "Николаев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Чиркова Лиана Родионовна ",
+    "age": 35,
+    "city": "Николаев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Панарина Зоя Петровна ",
-    "Возраст": 23,
-    "Город": "Винница",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Панарина Зоя Петровна ",
+    "age": 23,
+    "city": "Винница",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Глен Алексей Давыдович",
-    "Возраст": 55,
-    "Город": "Николаев",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Глен Алексей Давыдович",
+    "age": 55,
+    "city": "Николаев",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Мазаев Феофан Давыдович ",
-    "Возраст": 35,
-    "Город": "Винница",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Мазаев Феофан Давыдович ",
+    "age": 35,
+    "city": "Винница",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Фанина Софья Захаровна ",
-    "Возраст": 33,
-    "Город": "Сумы",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Фанина Софья Захаровна ",
+    "age": 33,
+    "city": "Сумы",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Кузуба Стела Всеволодовна ",
-    "Возраст": 22,
-    "Город": "Житомир",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Кузуба Стела Всеволодовна ",
+    "age": 22,
+    "city": "Житомир",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     },
     {
-    "ФИО": "Мельникова Ева Емельяновна ",
-    "Возраст": 29,
-    "Город": "Черновцы",
-    "Фото": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
+    "name": "Мельникова Ева Емельяновна ",
+    "age": 29,
+    "city": "Черновцы",
+    "photo": "http://nv.ua/img/forall/users/372/37266/pasted_image_at_2017_01_20_06_18_pm.png"
     
     }
       
